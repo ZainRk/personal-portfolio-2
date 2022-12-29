@@ -1,6 +1,6 @@
 @import './contants.scss';
 .container{
-    // overflow-x: hidden;
+    overflow-x: clip;
     position: relative;
     color: $primary;
 }
