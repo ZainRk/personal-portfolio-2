@@ -4,7 +4,9 @@
     .container {
         .heading {
             flex-direction: column;
+           p{
             line-height: 30px;
+           }
         }
 
         .comments {
@@ -19,7 +21,7 @@
                         padding: 0 20px;
                     }
                     & .slick-slide.slick-active.slick-current + .slick-slide{
-                        @media (min-width: $md) {
+                        @media (min-width: $lg) {
                             transition: all 1000ms ease-out;
                             scale: 1.1;
                             transform: translateY(-30px)
