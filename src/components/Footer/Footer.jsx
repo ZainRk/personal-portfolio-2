@@ -21,14 +21,14 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:zainkeepscode@gmail.com">saying hi</a>
+            Start by <a href="mailto:kayodeboluwatife112@gmail.com">saying hi</a>
           </span>
         </div>
 
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
-            <p>145 New York, FL 5467, USA</p>
+            <p>ascon topo badagry, Lagos Nigeria</p>
           </div>
           <ul className={css.menu}>
             <li>Services</li>

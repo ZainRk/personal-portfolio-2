@@ -30,8 +30,8 @@ export const WhatDoIHelp = [
 export const workExp = [
   {
     place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    tenure: "Aug 2022 - jan 2023",
+    role: "web Designer",
     detail:
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
   },
@@ -43,8 +43,8 @@ export const workExp = [
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
+    place: "Araba technologies Lagos",
+    tenure: "april 2020 - Sep 2021",
     role: "Sr. Product Designer",
     detail:
       "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
@@ -53,8 +53,22 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "Anamika Sandula",
+    name: "samuel olawwepo",
+    post: "ibikun visauals",
+    comment:
+      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    img: "./people2.png",
+  },
+  {
+    name: "adeniyi tobi",
     post: "Creative Manager",
+    comment:
+      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    img: "./people1.png",
+  },
+  {
+    name: "Adeniyi victor",
+    post: "Content creator",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     img: "./people2.png",
@@ -67,28 +81,14 @@ export const comments = [
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "awolami omolare",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
+    name: "adegbola taiwo",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
