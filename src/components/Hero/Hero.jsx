@@ -16,7 +16,7 @@ const Hero = () => {
           <motion.span className="primaryText" variants={fadeIn("right", "tween", 0.2, 1)}>
             Hey There,
             <br />
-            I'm Binjan.
+            I'm kayode boluwatife.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
             I design beautiful simple
@@ -29,11 +29,11 @@ const Hero = () => {
           variants={fadeIn("up", "tween", 0.3, 1)}
           className={css.person}
         >
-          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./person.png" alt="" />
+          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./bolu.jpg" alt="" />
         </motion.div>
 
         <a className={css.email} href="mailto:zainkeepscode@gmail.com">
-          zainkeepscode@gmail.com
+          kayodeboluwatife112@gmail.com
         </a>
 
         <div className={css.lowerElements}>
@@ -47,8 +47,8 @@ const Hero = () => {
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
             <img src="./certificate.png" alt="" />
-            <span>CERTIFIED PROFATIONAL</span>
-            <span>UI/UX DESIGNER</span>
+            <span>CERTIFIED PROFESSIONAL</span>
+            <span>WEB DESIGNER AND DEVELOPER</span>
           </motion.div>
         </div>
       </motion.div>
